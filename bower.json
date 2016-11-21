@@ -2,6 +2,6 @@
   "name": "backbone.sessionStorage",
   "main": "./backbone.sessionStorage.js",
   "dependencies": {
-    "backbone": "~1.x.x"
+    "backbone": "~1.0.0"
   }
 }

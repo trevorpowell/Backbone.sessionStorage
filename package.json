@@ -1,0 +1,12 @@
+{
+  "name": "backbone.sessionStorage",
+  "version": "1.0.0",
+  "main": "./backbone.sessionStorage.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trevorpowell/Backbone.sessionStorage.git"
+  },
+  "dependencies": {
+    "backbone": "~1.0.0"
+  }
+}
